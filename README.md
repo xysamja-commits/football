@@ -1,2 +1,2 @@
 # football
-Football League Simulator | Predict Matches, Simulate Results
+Football League Simulator | Predict Matches, Simulate Results | Game
